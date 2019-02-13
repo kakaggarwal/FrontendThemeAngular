@@ -1,0 +1,24 @@
+@media (min-width:768px) {
+  #showcase-carousel .carousel-item {
+    height: 28.125rem;
+  }
+}
+
+#home-icons .fa, #icon-boxes .fa {
+  font-size: 55px
+}
+
+#home-heading {
+  position: relative;
+  min-height: 200px;
+  background: url(../../../assets/images/lights.jpg) no-repeat;
+  background-attachment: fixed;
+  text-align: center;
+  color: #fff;
+}
+
+header#page-header {
+  background: url(../../../assets/images/image1.jpg);
+  background-position: 0 -360px;
+  color: #fff;
+}
