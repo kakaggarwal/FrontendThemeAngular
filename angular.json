@@ -141,5 +141,8 @@
       }
     }
   },
-  "defaultProject": "FrontendThemeAngular"
+  "defaultProject": "FrontendThemeAngular",
+  "cli": {
+    "analytics": false
+  }
 }
