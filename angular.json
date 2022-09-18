@@ -126,7 +126,6 @@
       }
     }
   },
-  "defaultProject": "FrontendThemeAngular",
   "cli": {
     "analytics": false
   }
