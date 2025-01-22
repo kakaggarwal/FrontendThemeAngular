@@ -70,18 +70,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "FrontendThemeAngular:build"
+            "buildTarget": "FrontendThemeAngular:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "FrontendThemeAngular:build:production"
+              "buildTarget": "FrontendThemeAngular:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "FrontendThemeAngular:build"
+            "buildTarget": "FrontendThemeAngular:build"
           }
         },
         "test": {
